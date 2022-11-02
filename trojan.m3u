@@ -35,6 +35,8 @@ acestream://1c0bb99925a0d18e075c2fe2cd7cb50946554ab1
 acestream://df98650743f24a245c44cdf2851e57078f4c487a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN LaLigaHD ", DAZN LaLiga 1080 multiaudio
 acestream://fee5612d57824b6e8db780f210ec54093056dc3a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN LaLigaHD ", DAZN LaLiga test 1080 multiaudio
+acestream://c72263175266c90d376dcb8607c28e02939c1873
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN LaLigaHD", DAZN LaLiga 720
 acestream://c35d2207792128fc0ae49c40e885c463f664dbce
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="DAZN LaLiga2 HD", DAZN LaLiga 2 720
@@ -172,10 +174,8 @@ acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 acestream://f3f14b89eb62839f97153593432370b5bd61a5df
 
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @ManuK0S" tvg-id="", 
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
-
 
 
 
@@ -184,25 +184,20 @@ acestream://acefcfb8ec308c1ae5e66ccfc13a09bfbc6caa09
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @Jonatan" tvg-id="M. LIGA CAMPEONES 720", M. LIGA CAMPEONES 720
+acestream://5923b2715667959ad07cbc9afe8459d9364e231e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @Jonatan" tvg-id="M. LIGA CAMPEONES 1080", M. LIGA CAMPEONES 1080
+acestream://7a4aed0debd18c5567d3c6dbb21eba97d75064b0
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @Jonatan" tvg-id="Valencia vs Barcelona 21:00", Valencia vs Barcelona 21:00
-acestream://df98650743f24a245c44cdf2851e57078f4c487a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @Jonatan" tvg-id="Burgos VS Ibiza 21:00", Burgos VS Ibiza 21:00
-acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @Jonatan" tvg-id="Canarias VS Tenerife 20:45", Canarias VS Tenerife 20:45
-acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @Jonatan" tvg-id="Joventud VS Zaragoza 20:45", Joventud VS Zaragoza 20:45
-acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="By @Jonatan" tvg-id="DAZN F1", DAZN F1 (Formula 1)
 acestream://c372020ed2744033f56548b6beb11a9f3e740f37
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="By @Jonatan" tvg-id="DAZN F1", DAZN F1 (Formula 1)
-acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FFnChQY/4k.png" group-title="By @Danny" tvg-id="Valencia vs Barcelona a 4k 21:00", Real Betis - At Madrid (4k)
-acestream://94774eb9d2d6b0577a7a1732ddc586ad778b2657
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FFnChQY/4k.png" group-title="By @Danny" tvg-id="Hoy fiesta", Hoy fiesta
+acestream://
 
 
 
