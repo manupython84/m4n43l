@@ -8,7 +8,7 @@ acestream://de2074f9558653838083f180af86939013bd7f50
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="LALIGATV BAR", LaLiga Tv Bar 1080
 acestream://01b333b9369c662775902638ef8cffac346a0f61
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="LALIGATV BAR", LaLiga Tv Bar 720
-acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
+acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+ LaLiga HD", M. LaLiga 1080 MultiAudio
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" group-title="By @Lucas_m_o_o_m" tvg-id="M+ LaLiga HD", M. LaLiga 1080
@@ -184,22 +184,21 @@ acestream://acefcfb8ec308c1ae5e66ccfc13a09bfbc6caa09
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @Jonatan" tvg-id="M. LIGA CAMPEONES 720", M. LIGA CAMPEONES 720
-acestream://5923b2715667959ad07cbc9afe8459d9364e231e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @Jonatan" tvg-id="M. LIGA CAMPEONES 1080", M. LIGA CAMPEONES 1080
-acestream://7a4aed0debd18c5567d3c6dbb21eba97d75064b0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @Jonatan" tvg-id="DAZN 1 1080", DAZN 1 1080
+acestream://a678fa6333c5b7e7ba6f36ea315e3e8ad4030549
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @Jonatan" tvg-id="M. LA LIGA 1080", M. LA LIGA 1080
+acestream://350f17dff200c7b5a02bfef785efd9a90a766bc8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4cyBjm/Eventos.jpg" group-title="By @Jonatan" tvg-id="DAZN LA LIGA 1080", DAZN LA LIGA 1080
+acestream://5424badb8cd5a9a029afcdf98c2fb38f8d7ee165
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="By @Jonatan" tvg-id="DAZN F1", DAZN F1 (Formula 1)
-acestream://c372020ed2744033f56548b6beb11a9f3e740f37
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="By @Jonatan" tvg-id="DAZN F1 OFF", DAZN F1 (Formula 1) OFF
+acestream://
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FFnChQY/4k.png" group-title="By @Danny" tvg-id="Hoy fiesta", Hoy fiesta
 acestream://
-
-
 
 
 #EXTINF:-1 group-title="Extranjeros" tvg-id="NBA USA 1 1080", NBA USA 1 1080
