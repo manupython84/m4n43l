@@ -1,4 +1,4 @@
-#EXTINF:-1,La1_test
+#EXTINF:-1,La1
 acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
 #EXTINF:-1,La1 UHD
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
@@ -42,7 +42,7 @@ acestream://1104426e14b649eb23fee16698768544285de478
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 #EXTINF:-1,#Vamos 720
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
-#EXTINF:-1,#Ellas 720
+#EXTINF:-1,#Ellas 1080
 acestream://71e9e4c66a271ff58beb76792e01eeb6a1dde746
 #EXTINF:-1,M. Deportes 1080
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
@@ -105,9 +105,9 @@ acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 #EXTINF:-1,DAZN 4 1080
 acestream://149a38e333de920753f1388c43247283bdb05f5b
 #EXTINF:-1,DAZN F1 1080 (Fórmula 1)
-acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
-#EXTINF:-1,DAZN F1 1080 (Fórmula 1)
 acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
+#EXTINF:-1,DAZN F1 1080 (Fórmula 1)
+acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
 #EXTINF:-1,DAZN F1 720 (Fórmula 1)
 acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
 #EXTINF:-1,EuroSport 1 1080
