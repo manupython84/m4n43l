@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,La1
 acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
-#EXTINF:-1,La1 UHD
-acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 #EXTINF:-1,La2
 acestream://60106275d34f995e26bb2cc4a21a42f586c6c555
 #EXTINF:-1,M. LaLiga 1080 MultiAudio
@@ -151,8 +149,6 @@ acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 acestream://9292d3b32432efb56db4014933cbdec0a7cf2e36
 #EXTINF:-1,CUATRO 1080
 acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
-#EXTINF:-1,BeMad 1080
-acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
 #EXTINF:-1,Telecinco 1080
 acestream://bb1982ae8d2d409d4ccd7a9f498042684e3532b5
 #EXTINF:-1,Sport Tv 1 1080
